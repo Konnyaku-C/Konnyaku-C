@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Konnyaku-C=anuraghazra)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKonnyaku-C=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/X?username=Konnyaku-C)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konnyaku-C)
 <!--
 **Konnyaku-C/Konnyaku-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
